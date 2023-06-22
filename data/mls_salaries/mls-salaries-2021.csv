@@ -1,0 +1,872 @@
+club,last_name,first_name,position,base_salary,guaranteed_compensation
+Atlanta United,Adams,"Mohammed ""Mo""",M,121000.0,141000.0
+Atlanta United,Ambrose,Mikey,D,81375.0,81375.0
+Atlanta United,Araujo,Luiz,F,3600000.0,3941667.0
+Atlanta United,Barco,Ezequiel,M,1875000.0,2358333.0
+Atlanta United,Bauer,Josh,D,63547.0,63547.0
+Atlanta United,Bello,George,D,135000.0,139000.0
+Atlanta United,Campbell,George,D,80000.0,80000.0
+Atlanta United,Chol,Machop,M,63547.0,63547.0
+Atlanta United,Conway,Jackson,F,63547.0,63547.0
+Atlanta United,Damm,Jurgen,M,1290000.0,1582509.0
+Atlanta United,De John,Alex,D,81375.0,81375.0
+Atlanta United,Escobar,Franco,D,450000.0,450000.0
+Atlanta United,Franco,Alan,D,378000.0,505500.0
+Atlanta United,Guzan,Brad,G,805000.0,805000.0
+Atlanta United,Hernandez,Ronald,D,250000.0,250000.0
+Atlanta United,Hyndman,Emerson,M,900000.0,900000.0
+Atlanta United,Ibarra,Franco,M,300000.0,370000.0
+Atlanta United,Kann,Alec,G,115000.0,115000.0
+Atlanta United,Lennon,Brooks,D,375000.0,375000.0
+Atlanta United,Lopez Samaniego,Erik,F,340000.0,508300.0
+Atlanta United,Lundgaard,Ben,G,81375.0,81375.0
+Atlanta United,Martinez,Josef,F,3500000.0,3891667.0
+Atlanta United,Morales,Efrain,D,63547.0,63547.0
+Atlanta United,Moreno,Marcelino,F,400000.0,400000.0
+Atlanta United,Mulraney,Jake,M,275600.0,312777.0
+Atlanta United,Robinson,Miles,D,650000.0,687500.0
+Atlanta United,Rossetto,Matheus,M,550000.0,662500.0
+Atlanta United,Sejdic,Amar,M,81375.0,81375.0
+Atlanta United,Sosa,Santiago,F,385000.0,503100.0
+Atlanta United,Torres,Erick,F,81375.0,81375.0
+Atlanta United,Walkes,Anton,D,250000.0,275062.0
+Atlanta United,Washington,Bryce,D,63547.0,63547.0
+Atlanta United,Wolff,Tyler,F,75000.0,79500.0
+Austin FC,Berhalter,Sebastian,M,85000.0,122250.0
+Austin FC,Besler,Matt,D,650000.0,650000.0
+Austin FC,Cascante,Julio,D,290000.0,317500.0
+Austin FC,Djitte,Moussa,F,500000.0,500000.0
+Austin FC,Dominguez,Cecilio,F,1530000.0,1736000.0
+Austin FC,Driussi,Sebastian,F,2571420.0,2688420.0
+Austin FC,Fagundez,Diego,M,400000.0,400000.0
+Austin FC,Gaines,McKinze,F,81375.0,84125.0
+Austin FC,Gallagher,Jon,F,81375.0,81375.0
+Austin FC,Hoesen,Danny,F,650000.0,716667.0
+Austin FC,Jimenez,Hector,D,250000.0,250000.0
+Austin FC,Kleeman,Freddy,D,63547.0,63547.0
+Austin FC,Kolmanic,Zan,D,225000.0,225000.0
+Austin FC,Lima,Nick,D,350000.0,350000.0
+Austin FC,Manneh,Kekuta,F,81375.0,81375.0
+Austin FC,Pereira,Danny,M,81375.0,99793.0
+Austin FC,Perez,Manny,M,63547.0,89214.0
+Austin FC,Pochettino,Tomas,M,582447.0,642447.0
+Austin FC,Pulisic,William,G,63547.0,63547.0
+Austin FC,Redes,Rodney,F,385000.0,385000.0
+Austin FC,Ring,Alexander,M,1000000.0,1095000.0
+Austin FC,Romana,Jhohan,D,420000.0,420000.0
+Austin FC,Schoenfeld,Aaron,F,210000.0,210000.0
+Austin FC,Scott,Brady,G,115000.0,121236.0
+Austin FC,Segura,Ulises,M,240000.0,269125.0
+Austin FC,Stanley,Aedan,D,63547.0,63547.0
+Austin FC,Stroud,Jared,M,81375.0,81375.0
+Austin FC,Stuver,Brad,G,150000.0,160000.0
+Austin FC,Sweat,Ben,D,250000.0,250000.0
+Austin FC,Tarbell,Andrew,G,275000.0,283333.0
+Austin FC,Wolff,Owen,M,63547.0,76600.0
+Charlotte FC,Armour,Adam,D,63547.0,63547.0
+Charlotte FC,Bronico,Brandt,M,81375.0,90705.0
+Chicago Fire,Aliseda,Ignacio,M,600000.0,821501.0
+Chicago Fire,Beric,Robert,F,2274996.0,2703164.0
+Chicago Fire,Bornstein,Jonathan,D,300000.0,323200.0
+Chicago Fire,Brady,Chris,G,66724.0,68624.0
+Chicago Fire,Calvo,Francisco,D,830000.0,902600.0
+Chicago Fire,Casas,Javier,M,66724.0,68624.0
+Chicago Fire,Collier,Elliot,M,101375.0,101375.0
+Chicago Fire,Espinoza,Jhon,D,162000.0,188500.0
+Chicago Fire,Gimenez,Gaston,M,2058000.0,2358667.0
+Chicago Fire,Gutierrez,Brian,M,66724.0,68624.0
+Chicago Fire,Herbers,Fabian,M,230000.0,251250.0
+Chicago Fire,Ivanov,Stanislav,M,275000.0,334000.0
+Chicago Fire,Kappelhof,Johan,M,462500.0,490333.0
+Chicago Fire,Kronholm,Kenneth,G,569000.0,632000.0
+Chicago Fire,Medran,Alvaro,M,1000000.0,1055000.0
+Chicago Fire,Monis,Alex,M,66724.0,68624.0
+Chicago Fire,Navarro,Miguel Angel,D,150000.0,197000.0
+Chicago Fire,Navarro,Federico,M,180000.0,257500.0
+Chicago Fire,Offor,Chinonso,F,132000.0,181400.0
+Chicago Fire,Omsberg,Wyatt,D,85444.0,85444.0
+Chicago Fire,Pineda,Mauricio,M,175000.0,198875.0
+Chicago Fire,Reynolds,Andre,D,81375.0,89375.0
+Chicago Fire,Rodriguez,Allan,M,66724.0,68624.0
+Chicago Fire,Sekulic,Boris,D,571000.0,643900.0
+Chicago Fire,Shuttleworth,Bobby,G,110000.0,125750.0
+Chicago Fire,Slonina,Gabriel,G,100000.0,104800.0
+Chicago Fire,Slonina,Nicholas,D,66724.0,67974.0
+Chicago Fire,Stojanovic,Luka,M,314000.0,373400.0
+Chicago Fire,Teran,Carlos,D,150000.0,205440.0
+Colorado Rapids,Abubakar,Lalas,D,210000.0,247125.0
+Colorado Rapids,Acosta,Kellyn,M,1000000.0,1115000.0
+Colorado Rapids,Anderson,Sebastian,D,90000.0,91667.0
+Colorado Rapids,Badji,Dominique,F,300000.0,306250.0
+Colorado Rapids,Barrios,Michael,M,650000.0,650000.0
+Colorado Rapids,Bassett,Cole,M,110000.0,119000.0
+Colorado Rapids,Beitashour,Steven,D,150000.0,165000.0
+Colorado Rapids,Edwards,Michael,D,81375.0,81375.0
+Colorado Rapids,Esteves,Lucas,D,369996.0,412467.0
+Colorado Rapids,Ford,Kortne,D,140000.0,140000.0
+Colorado Rapids,Galvan,Braian,F,160000.0,252375.0
+Colorado Rapids,Hundley,Matt,F,95000.0,104000.0
+Colorado Rapids,Irwin,Clint,G,190000.0,203300.0
+Colorado Rapids,Kaye,Mark-Anthony,M,235625.0,247188.0
+Colorado Rapids,Kelly,Jeremy,D,85444.0,85444.0
+Colorado Rapids,Larraz,Oliver,M,63547.0,63547.0
+Colorado Rapids,Lewis,Jonathan,F,410000.0,435000.0
+Colorado Rapids,Mayaka,Philip,M,81375.0,94375.0
+Colorado Rapids,Mezquida,Nicolas,M,350000.0,380000.0
+Colorado Rapids,Moor,Drew,D,150000.0,165000.0
+Colorado Rapids,Namli,Younes,M,850000.0,1271000.0
+Colorado Rapids,Price,Jack,M,600000.0,655625.0
+Colorado Rapids,Rawls,Andre,G,85000.0,91000.0
+Colorado Rapids,Rodriguez,Abraham,G,63547.0,63547.0
+Colorado Rapids,Rosenberry,Keegan,D,285000.0,298750.0
+Colorado Rapids,Rubio Kostner,Diego,F,585000.0,629583.0
+Colorado Rapids,Shinyashiki,Andre,F,120000.0,130000.0
+Colorado Rapids,Toure,"Dantouma ""Yaya""",F,63547.0,78165.0
+Colorado Rapids,Trusty,Auston,D,375000.0,431250.0
+Colorado Rapids,Vint,Will,D,63547.0,63547.0
+Colorado Rapids,Warner,Collen,M,81375.0,81375.0
+Colorado Rapids,Wilson,Danny,D,275000.0,288750.0
+Colorado Rapids,Yapi,Darren,F,63547.0,74380.0
+Colorado Rapids,Yarbrough,William,G,300000.0,375000.0
+Columbus Crew,Abdul-Salaam,Saad,D,125000.0,133667.0
+Columbus Crew,Afful,Harrison,D,335000.0,365000.0
+Columbus Crew,Berry,Miguel,F,85444.0,85444.0
+Columbus Crew,Bush,Evan,G,376000.0,438667.0
+Columbus Crew,Diaz,Luis,M,350004.0,383904.0
+Columbus Crew,Dick,Eric,G,85444.0,85444.0
+Columbus Crew,Etienne,Derrick,M,125000.0,125000.0
+Columbus Crew,Francis,Waylon,D,220000.0,230000.0
+Columbus Crew,Fraser,Liam,M,89513.0,94513.0
+Columbus Crew,Hairston,Marlon,M,81375.0,81375.0
+Columbus Crew,Hurtado,Erik,F,218182.0,245682.0
+Columbus Crew,Keita,Aboubacar,D,110000.0,110000.0
+Columbus Crew,Kitchen,Perry,M,275000.0,301667.0
+Columbus Crew,Lillard,Grant,D,125000.0,127500.0
+Columbus Crew,Lima,Artur,M,480000.0,531633.0
+Columbus Crew,Matan,Alexandru,F,375000.0,408250.0
+Columbus Crew,Mensah,Jonathan,D,1000000.0,1140667.0
+Columbus Crew,Molino,Kevin,M,667000.0,667000.0
+Columbus Crew,Moreira,Steven,D,350000.0,432708.0
+Columbus Crew,Morris,Aidan,M,145000.0,147000.0
+Columbus Crew,Nagbe,Darlington,M,1710000.0,1710000.0
+Columbus Crew,Parente,Isaiah,M,63547.0,67547.0
+Columbus Crew,Room,Eloy,G,425004.0,479698.0
+Columbus Crew,Santos,Pedro,M,817560.0,864560.0
+Columbus Crew,Valenzuela,Milton,D,375000.0,406300.0
+Columbus Crew,Williams,Josh,D,300000.0,302500.0
+Columbus Crew,Wormgoor,Vito,D,415000.0,492875.0
+Columbus Crew,Wright-Phillips,Bradley,F,410000.0,475750.0
+Columbus Crew,Zardes,Gyasi,F,1350000.0,1400000.0
+Columbus Crew,Zelarayan,Lucas,M,1620000.0,1985000.0
+DC United,Abila,Ramon,F,800000.0,1105000.0
+DC United,Alfaro,Antonio,D,81375.0,81375.0
+DC United,Arriola,Paul,M,1000000.0,1050000.0
+DC United,Asad,Yamil,F,475000.0,542667.0
+DC United,Birnbaum,Steven,D,700000.0,712500.0
+DC United,Bolivar,Jovanny,F,81375.0,81375.0
+DC United,Brillant,Frederic,D,300000.0,315000.0
+DC United,Canouse,Russell,M,500000.0,500000.0
+DC United,Deshields,Michael,D,81375.0,81375.0
+DC United,Flores,Edison,F,1600000.0,1733000.0
+DC United,Greene,Jacob,M,63547.0,66547.0
+DC United,Gressel,Julian,M,705000.0,760781.0
+DC United,Hamid,Bill,G,500000.0,500000.0
+DC United,Hines-Ike,Brendan,D,240000.0,274429.0
+DC United,Kamara,Ola,F,400000.0,420000.0
+DC United,Kempin,Jon,G,85444.0,85444.0
+DC United,Martins,Felipe,M,150000.0,150000.0
+DC United,Mora,Joseph,D,184000.0,198600.0
+DC United,Moreno,Junior,M,184000.0,193550.0
+DC United,Najar,Andy,D,90000.0,100000.0
+DC United,Nyeman,Moses,M,85444.0,88230.0
+DC United,Odoi-Atsem,Chris,D,130000.0,141000.0
+DC United,Paredes,Kevin,M,100000.0,108000.0
+DC United,Perez,Adrien,F,81375.0,81375.0
+DC United,Pines,Donovan,D,125000.0,127000.0
+DC United,Reyna,Yordy,F,711500.0,774640.0
+DC United,Robertha,Nigel,F,550000.0,622406.0
+DC United,Seitz,Chris,G,160000.0,160000.0
+DC United,Skundrich,Andrew,F,81375.0,81375.0
+DC United,Smith,Kimarni,F,81375.0,81375.0
+DC United,Sorga,Erik,F,150000.0,173000.0
+DC United,Yow,Griffin,F,110000.0,116118.0
+FC Cincinnati,Acosta,Luciano,M,1943500.0,2222854.0
+FC Cincinnati,Atanga,Isaac,F,259000.0,273000.0
+FC Cincinnati,Bailey,Zico,D,66724.0,66724.0
+FC Cincinnati,Barreal,Alvaro,F,300000.0,300000.0
+FC Cincinnati,Blackett,Tyler,D,398400.0,398400.0
+FC Cincinnati,Cameron,Geoff,D,336000.0,389667.0
+FC Cincinnati,Castillo,Edgar,D,121000.0,127019.0
+FC Cincinnati,Cruz,Allan,M,1020000.0,1134000.0
+FC Cincinnati,Duvall,Chris,D,81375.0,81375.0
+FC Cincinnati,Fjeldberg,Jonas,F,63547.0,63547.0
+FC Cincinnati,Flanagan,Avionne,D,63547.0,63547.0
+FC Cincinnati,Gyau,Joe,D,273000.0,273000.0
+FC Cincinnati,Hagglund,Nick,D,175000.0,184375.0
+FC Cincinnati,Harris,Calvin,F,81375.0,96375.0
+FC Cincinnati,Kubo,Yuya,M,1091000.0,1206750.0
+FC Cincinnati,Lundt,Ben,G,85444.0,87019.0
+FC Cincinnati,Matarrita,Ronald,D,700000.0,756875.0
+FC Cincinnati,Medunjanin,Haris,M,570000.0,625750.0
+FC Cincinnati,Mines,Ben,M,81375.0,86239.0
+FC Cincinnati,Mokotjo,Kamohelo,M,925000.0,1007969.0
+FC Cincinnati,Ordonez,Arquimides,F,63547.0,67084.0
+FC Cincinnati,Scott,Kyle,M,81375.0,92458.0
+FC Cincinnati,Souza da Silva,Brenner,F,1221818.0,1760418.0
+FC Cincinnati,Stanko,Caleb,M,210000.0,210000.0
+FC Cincinnati,Sunderland,Beckham,G,63547.0,67609.0
+FC Cincinnati,Tyton,Przemyslaw,G,262500.0,269375.0
+FC Cincinnati,Vallecilla,Gustavo,D,252000.0,284880.0
+FC Cincinnati,Valot,Florian,M,93581.0,97498.0
+FC Cincinnati,Van Der Werff,Maikel,D,350000.0,435167.0
+FC Cincinnati,Vazquez,Brandon,F,250000.0,279167.0
+FC Cincinnati,Vermeer,Kenneth,G,81375.0,104375.0
+FC Dallas,Acosta,Bryan,M,650000.0,700000.0
+FC Dallas,Bressan,Matheus,D,536000.0,582340.0
+FC Dallas,Burgess,Nkosi,D,66724.0,66724.0
+FC Dallas,Cerrillo,Edwin,M,95000.0,110000.0
+FC Dallas,Che,Justin,D,80000.0,89209.0
+FC Dallas,Elmedkhar,Kalil,D,63547.0,63547.0
+FC Dallas,Ferreira,Jesus,F,550000.0,550000.0
+FC Dallas,Gomes,Caiser Sergio,D,81375.0,81375.0
+FC Dallas,Hedges,Matt,D,850000.0,850000.0
+FC Dallas,Hernandez,Dominick,M,63547.0,73237.0
+FC Dallas,Hollingshead,Ryan,D,346500.0,346500.0
+FC Dallas,Jara,Franco,F,2290000.0,2977000.0
+FC Dallas,Martinez,Jose Antonio,D,600000.0,673000.0
+FC Dallas,Maurer,Jimmy,G,250000.0,267888.0
+FC Dallas,Megiolaro,Phelipe,G,150000.0,176250.0
+FC Dallas,Munjoma,Eddie,D,66724.0,66724.0
+FC Dallas,Nelson,John,D,115000.0,123000.0
+FC Dallas,Obrian,Jader,F,360000.0,444600.0
+FC Dallas,Pepi,Ricardo,F,200000.0,271333.0
+FC Dallas,Pomykal,Paxton,M,600000.0,600000.0
+FC Dallas,Quignon,Facundo,M,786000.0,840627.0
+FC Dallas,Redzic,Beni,M,63547.0,71169.0
+FC Dallas,Ricaurte,Andres,M,450000.0,487178.0
+FC Dallas,Roberts,Thomas,M,150000.0,163000.0
+FC Dallas,Schon,Szabolcs,F,300000.0,341800.0
+FC Dallas,Sealy,Dante,F,100000.0,113400.0
+FC Dallas,Servania,Brandon,M,230400.0,271400.0
+FC Dallas,Smith,Collin,D,63547.0,66547.0
+FC Dallas,Twumasi,Ema,F,200000.0,246900.0
+FC Dallas,Vargas,Freddy,M,160000.0,186000.0
+FC Dallas,Zobeck,Kyle,G,85444.0,85444.0
+Houston Dynamo,Baird,Corey,F,365000.0,396031.0
+Houston Dynamo,Bajamich,Mateo,F,264000.0,324069.0
+Houston Dynamo,Bartlow,Ethan,D,81375.0,88875.0
+Houston Dynamo,Bizama,Jose,D,225000.0,250000.0
+Houston Dynamo,Carraquilla,Adalberto,M,418908.0,469132.0
+Houston Dynamo,Castilla,Juan,M,63547.0,77897.0
+Houston Dynamo,Ceren,Darwin,M,195500.0,245500.0
+Houston Dynamo,Corona,Joe,M,275000.0,290000.0
+Houston Dynamo,Dorsey,Griffin,D,110000.0,129000.0
+Houston Dynamo,Figueroa,Maynor,D,150000.0,157688.0
+Houston Dynamo,Fuenmayor,Alejandro,D,190008.0,217508.0
+Houston Dynamo,Garcia,Oscar Boniek,M,81375.0,81375.0
+Houston Dynamo,Hadebe,Teenage,D,960000.0,1125177.0
+Houston Dynamo,Hoffmann,Ian,D,63547.0,63547.0
+Houston Dynamo,Jones,Derrick,M,160000.0,182969.0
+Houston Dynamo,Junqua,Sam,D,81375.0,81375.0
+Houston Dynamo,Lassiter,Ariel,F,210000.0,230280.0
+Houston Dynamo,Lemoine,Nico,F,66724.0,66724.0
+Houston Dynamo,Lundkvist,Adam,D,325000.0,372500.0
+Houston Dynamo,Maric,Marko,G,465000.0,513250.0
+Houston Dynamo,McCue,Erik,D,81375.0,81375.0
+Houston Dynamo,Morton,Kyle,G,81375.0,81375.0
+Houston Dynamo,Nelson,Michael,G,85444.0,85444.0
+Houston Dynamo,Palomino,Marcelo,F,66724.0,66724.0
+Houston Dynamo,Parker,Tim,D,1161800.0,1199300.0
+Houston Dynamo,Pasher,Tyler,F,150000.0,157881.0
+Houston Dynamo,Picault,Fafa,F,500000.0,500000.0
+Houston Dynamo,Quintero,Darwin,F,1352055.0,1352055.0
+Houston Dynamo,Rios,Daniel Esteban,M,63547.0,68069.0
+Houston Dynamo,Rodriguez,Memo,M,265000.0,290935.0
+Houston Dynamo,Urruti,Maximiliano,F,1136127.0,1270146.0
+Houston Dynamo,Valentin,Zarek,D,250000.0,280000.0
+Houston Dynamo,Vera,Matias Gabriel,M,350000.0,356250.0
+Inter Miami,Acosta,George,M,81375.0,81375.0
+Inter Miami,Alvarado,Ventura,D,81375.0,124708.0
+Inter Miami,Azcona,Edison,M,63547.0,63547.0
+Inter Miami,Callender,Drake,G,120000.0,120000.0
+Inter Miami,Carranza,Julian,F,750000.0,750000.0
+Inter Miami,Castanheira,Dylan,G,81375.0,81375.0
+Inter Miami,Chapman,Jay,M,167500.0,180333.0
+Inter Miami,De Magalhaes Silva,Gregore,M,550000.0,651000.0
+Inter Miami,Figal,Jorge,D,600000.0,630000.0
+Inter Miami,Fray,Ian,D,63547.0,63547.0
+Inter Miami,Gibbs,Kieran,D,120000.0,128167.0
+Inter Miami,Gonzalez Pirez,Leandro,D,849996.0,1010246.0
+Inter Miami,Guediri,Sami,D,63547.0,63547.0
+Inter Miami,Higuain,Federico,F,81375.0,81375.0
+Inter Miami,Higuain,Gonzalo,F,5100000.0,5793750.0
+Inter Miami,Jones,Joevin,M,180000.0,278100.0
+Inter Miami,Leerdam,Kelvin,D,180000.0,297625.0
+Inter Miami,Makoun,Christian,M,175000.0,175000.0
+Inter Miami,Marsman,Nick,G,150000.0,262188.0
+Inter Miami,Matuidi,Blaise,M,1500000.0,1500000.0
+Inter Miami,McCarthy,John,G,130000.0,136583.0
+Inter Miami,Morgan,Lewis,F,550000.0,553125.0
+Inter Miami,Penn,Josh,F,63547.0,63547.0
+Inter Miami,Pizarro,Rodolfo,F,3050000.0,3350000.0
+Inter Miami,Quinteros,Jairo,D,66724.0,66724.0
+Inter Miami,Robinson,Robbie,F,125000.0,170000.0
+Inter Miami,Seagrist,Patrick,D,63547.0,63547.0
+Inter Miami,Shawcross,Ryan,D,300000.0,307500.0
+Inter Miami,Shea,Brek,M,135000.0,135000.0
+Inter Miami,Ulloa,Victor,M,220000.0,220000.0
+Inter Miami,Valencia,Felipe,F,63547.0,63547.0
+Inter Miami,Vassilev,Indiana,F,81375.0,81375.0
+LA Galaxy,Acosta,Danilo,D,135000.0,135000.0
+LA Galaxy,Aguirre,Daniel,F,63547.0,63547.0
+LA Galaxy,Alvarez,Efrain,M,500000.0,612167.0
+LA Galaxy,Araujo,Julian,D,550000.0,653750.0
+LA Galaxy,Bond,Jonathan,G,450000.0,501875.0
+LA Galaxy,Cabral,Kevin,F,1440000.0,1440000.0
+LA Galaxy,Coulibaly,Sega,D,300000.0,337000.0
+LA Galaxy,DePuy,Nick,D,81375.0,81375.0
+LA Galaxy,dos Santos,Jonathan,M,2000000.0,2000000.0
+LA Galaxy,Dunbar,Cameron,F,100000.0,116750.0
+LA Galaxy,Esparza-Saldana,Adam,M,81375.0,87309.0
+LA Galaxy,Ferkranus,Marcus,D,90000.0,103625.0
+LA Galaxy,Fisher,Oniel,D,140000.0,147625.0
+LA Galaxy,Gonzalez,Giancarlo,D,850000.0,850000.0
+LA Galaxy,Grandsir,Samuel,F,850000.0,938427.0
+LA Galaxy,Hamalainen,Nicholas,M,612500.0,612500.0
+LA Galaxy,Harvey,Carlos Miguel,M,81375.0,81375.0
+LA Galaxy,Hernandez,Javier,F,6000000.0,6000000.0
+LA Galaxy,Joveljic,Dejan,F,612500.0,612500.0
+LA Galaxy,Klinsmann,Jonathan,G,81375.0,81375.0
+LA Galaxy,Kljestan,Sacha,M,247350.0,247350.0
+LA Galaxy,Koreniuk,Kai,F,85444.0,85444.0
+LA Galaxy,Lletget,Sebastian,M,800000.0,923750.0
+LA Galaxy,Lopez,Eric,G,81375.0,81375.0
+LA Galaxy,Neal,Jalen,D,90000.0,103625.0
+LA Galaxy,Perez,Jonathan,M,125000.0,146750.0
+LA Galaxy,Raveloson,Rayan,M,780000.0,855025.0
+LA Galaxy,Steres,Daniel,D,375000.0,393750.0
+LA Galaxy,Vazquez,Victor,M,400000.0,439167.0
+LA Galaxy,Villafaña,Jorge,D,450000.0,486667.0
+LA Galaxy,Vom Steeg,Justin,G,85444.0,85444.0
+LA Galaxy,Williams,Derrick,D,750000.0,821458.0
+LA Galaxy,Williams,Augustine,F,63547.0,63547.0
+LA Galaxy,Zubak,Ethan,F,130000.0,133125.0
+LAFC,Arango,Cristian,F,600000.0,659000.0
+LAFC,Atuesta,Eduard,M,550000.0,1278000.0
+LAFC,Blackman,Jamal,G,360000.0,409333.0
+LAFC,Blackmon,Tristan,D,193000.0,203000.0
+LAFC,Blessing,Latif,M,360000.0,376667.0
+LAFC,Cifuentes,Jose,M,367875.0,411750.0
+LAFC,Crisostomo,Daniel,M,63547.0,63547.0
+LAFC,Duenas,Erik,D,90444.0,92444.0
+LAFC,Duke,Bryce,M,90000.0,90000.0
+LAFC,Edwards,Raheem,M,96375.0,96375.0
+LAFC,Fall,Mamadou,M,81375.0,94125.0
+LAFC,Farfan,Marco,D,190000.0,190000.0
+LAFC,Gaines,Julian,D,81375.0,83375.0
+LAFC,Ginella,Francisco,M,425000.0,547250.0
+LAFC,Harvey,Jordan,D,110000.0,110000.0
+LAFC,Ibeagha,Sebastien,D,150000.0,177125.0
+LAFC,Jennings,Cal,F,81375.0,81375.0
+LAFC,Leone,Antonio,M,81375.0,83375.0
+LAFC,Moon-Hwan,Kim,M,500000.0,524000.0
+LAFC,Murillo,Jesus,D,400000.0,459500.0
+LAFC,Musovski,Danny,F,85444.0,85444.0
+LAFC,Ngalina,Michee,F,81375.0,82875.0
+LAFC,Opoku,Kwadwo,F,81375.0,122430.0
+LAFC,Palacios,Diego,D,432000.0,456000.0
+LAFC,Quezada,Alvaro,M,63547.0,63547.0
+LAFC,Rodriguez,Brian,F,700000.0,1039800.0
+LAFC,Romero,Tomas,G,81375.0,86375.0
+LAFC,Rossi,Diego,F,1000000.0,1052000.0
+LAFC,Segura,Eddie,D,200000.0,224000.0
+LAFC,Sisniega,Pablo,G,150000.0,150000.0
+LAFC,Torres,Christian,F,79738.0,90968.0
+LAFC,Traore,Mohamed,D,91444.0,91444.0
+LAFC,Vela,Carlos,F,4500000.0,6300000.0
+Major League Soccer,Cropper,Cody,G,81375.0,84427.0
+Major League Soccer,Jahn,Adam,F,125000.0,134000.0
+Major League Soccer,Lampson,Matt,G,85444.0,85444.0
+Major League Soccer,Mcgree,Riley,M,170000.0,180000.0
+Major League Soccer,Opara,Ike,D,600000.0,685333.0
+Major League Soccer,Pellegrini,Matias,F,825000.0,920833.0
+Major League Soccer,Ruiz,Sergio,M,300000.0,363000.0
+Major League Soccer,Sobocinksi,Jan,D,120000.0,146250.0
+Minnesota United,Adi,Fanendo,F,81375.0,83875.0
+Minnesota United,Agudelo,Juan,F,200000.0,212500.0
+Minnesota United,Alonso,Osvaldo,M,300000.0,322000.0
+Minnesota United,Billingsley,Noah,D,66724.0,66724.0
+Minnesota United,Boxall,Michael,D,384000.0,422400.0
+Minnesota United,Chacon,Thomas,F,420000.0,432000.0
+Minnesota United,Dibassy,Bakaye,D,625000.0,718125.0
+Minnesota United,Dotson,Hassani,M,81375.0,81375.0
+Minnesota United,Emmings,Fred,G,66724.0,72724.0
+Minnesota United,Finlay,Ethan,M,450000.0,450000.0
+Minnesota United,Fragapane,Franco,F,135000.0,142500.0
+Minnesota United,Gasper,Chase,D,81375.0,81375.0
+Minnesota United,Gregus,Jan,M,750000.0,883500.0
+Minnesota United,Hansen,Niko,M,110004.0,129004.0
+Minnesota United,Hayes,Jacori,M,160000.0,169833.0
+Minnesota United,Hunou,Adrien,F,2350000.0,2587702.0
+Minnesota United,Jackson,Aziel,F,63547.0,67444.0
+Minnesota United,Kallman,Brent,D,150000.0,158125.0
+Minnesota United,Kibunguchy,Nabilai,F,63547.0,63547.0
+Minnesota United,Lod,Robin,F,849996.0,952496.0
+Minnesota United,McMaster,Justin,F,63547.0,63547.0
+Minnesota United,Metanire,Romain,D,600000.0,699250.0
+Minnesota United,Miller,Tyler,G,400000.0,420937.0
+Minnesota United,Montgomery,Callum,D,81375.0,83292.0
+Minnesota United,Raitala,Jukka,D,285000.0,306350.0
+Minnesota United,Reynoso,Emanuel,M,750000.0,966910.0
+Minnesota United,Rosales,Joseph,M,81375.0,81375.0
+Minnesota United,St. Clair,Dayne,G,95000.0,99520.0
+Minnesota United,Taylor,DJ,M,63547.0,63547.0
+Minnesota United,Trapp,Wil,M,747500.0,747500.0
+Minnesota United,Weah,Patrick,F,63547.0,76733.0
+Minnesota United,Zendejas,Adrian,G,81375.0,90208.0
+Montreal,Bassong,Zorhan,D,81375.0,93875.0
+Montreal,Bayiha,Clement,M,85500.0,90875.0
+Montreal,Brault-Guillard,Zachary,D,170000.0,203625.0
+Montreal,Breza,Sebastian,G,63547.0,63547.0
+Montreal,Camacho,Rudy,D,800000.0,851653.0
+Montreal,Choiniere,Mathieu,M,105000.0,114238.0
+Montreal,Ferdinand,Keesean,F,63547.0,73592.0
+Montreal,Giraldo,Tomas,M,66724.0,75481.0
+Montreal,Hamdi,Ahmed,M,400000.0,497500.0
+Montreal,Ibrahim,Sunusi,F,200000.0,291250.0
+Montreal,Jean-Aniel,Assi,F,63547.0,71310.0
+Montreal,Johnsen,Bjorn,F,900000.0,1036667.0
+Montreal,Kizza,Mustafa,D,150000.0,166800.0
+Montreal,Koné,Ismael,M,63547.0,66172.0
+Montreal,Lappalainen,Lassi,M,383657.0,383657.0
+Montreal,Maciel,Emanuel,M,118182.0,129811.0
+Montreal,Mihailovic,Djordje,M,600000.0,651875.0
+Montreal,Milijevic,Matko,M,545455.0,593364.0
+Montreal,Miller,Kamal,D,85444.0,85444.0
+Montreal,Pantemis,James,G,130000.0,145833.0
+Montreal,Piette,Samuel,M,425000.0,454750.0
+Montreal,Quioto,Romell,F,800000.0,885000.0
+Montreal,Rea,Sean,F,63547.0,71730.0
+Montreal,Saliba,Nathan-Dylan,F,63547.0,73999.0
+Montreal,Sirois,Jonathan,G,66724.0,71167.0
+Montreal,Struna,"Aljaz ""Kiki""",D,1100000.0,1210000.0
+Montreal,Tabla,Ballou,M,250000.0,276250.0
+Montreal,Thorkelsson,Robert,D,150000.0,173500.0
+Montreal,Torres,Joaquin,M,200000.0,249800.0
+Montreal,Toye,Mason,F,175000.0,233000.0
+Montreal,Wanyama,Victor,M,2400000.0,3091667.0
+Montreal,Waterman,Joel,D,81375.0,90284.0
+Montreal,Yao,Karifa,D,81375.0,85591.0
+Montreal,Zouhir,Rida,M,63547.0,71730.0
+Nashville SC,Accam,David,F,975000.0,1102916.0
+Nashville SC,Anibaba,Jalil,D,200000.0,200000.0
+Nashville SC,Anunga,Tah Brian,M,81375.0,81375.0
+Nashville SC,Bwana,Handwalla,F,85444.0,85444.0
+Nashville SC,Cadiz,Jhonder,F,855000.0,1023800.0
+Nashville SC,Castellanos,Robert,D,63547.0,63547.0
+Nashville SC,Danladi,Abu,F,180000.0,237000.0
+Nashville SC,Donasiyano,Irakoze,M,63547.0,63547.0
+Nashville SC,Godoy,Anibal,M,700000.0,771667.0
+Nashville SC,Haakenson,Luke,M,66724.0,66724.0
+Nashville SC,Hinds,Nick,D,63547.0,63547.0
+Nashville SC,Johnston,Alistair,M,73079.0,73079.0
+Nashville SC,Judge,Thomas,D,63547.0,63547.0
+Nashville SC,LaGrassa,Matt,M,85444.0,85444.0
+Nashville SC,Leal,Randall,F,420000.0,477750.0
+Nashville SC,Loba,Ake,F,1077000.0,1318475.0
+Nashville SC,Lovitz,Daniel,D,385000.0,415556.0
+Nashville SC,Maher,Jack,D,115000.0,149000.0
+Nashville SC,McCarty,Dax,M,725000.0,725000.0
+Nashville SC,Meredith,Bryan,G,81375.0,87375.0
+Nashville SC,Miller,Eric,D,147000.0,147000.0
+Nashville SC,Mina Nazarit,Miguel,D,700000.0,894375.0
+Nashville SC,Mukhtar,Hany,M,1505000.0,1505000.0
+Nashville SC,Muyl,Alex,M,240000.0,246563.0
+Nashville SC,Nealis,Dylan,D,100000.0,125000.0
+Nashville SC,Panicco,Elliot,G,81375.0,81375.0
+Nashville SC,Pineiro,Rodrigo,F,250000.0,347500.0
+Nashville SC,Rios,Daniel,F,140000.0,161500.0
+Nashville SC,Romney,Dave,D,225000.0,225000.0
+Nashville SC,Sapong,CJ,F,400000.0,427778.0
+Nashville SC,Saunders,Tor,G,63547.0,63547.0
+Nashville SC,Washington,Taylor,M,89513.0,89513.0
+Nashville SC,Willis,Joe,G,300000.0,316250.0
+Nashville SC,Zimmerman,Walker,D,925000.0,981050.0
+New England Revolutio,nBell,Jon,D,63547.0,63547.0
+New England Revolutio,nBoateng,Emmanuel,M,200000.0,200000.0
+New England Revolutio,nBou,Gustavo,F,2120000.0,2120000.0
+New England Revolutio,nBuchanan,Tajon,F,110000.0,121000.0
+New England Revolutio,nBuksa,Adam,F,1000000.0,1106250.0
+New England Revolutio,nBunbury,Teal,F,375000.0,391667.0
+New England Revolutio,nBye,Brandon,D,170000.0,178875.0
+New England Revolutio,nCaicedo,Luis,M,350000.0,350000.0
+New England Revolutio,nCaldwell,Scott,M,205000.0,215896.0
+New England Revolutio,nDeLaGarza,AJ,M,250000.0,250000.0
+New England Revolutio,nEdwards,Earl,G,81375.0,81375.0
+New England Revolutio,nFarrell,Andrew,D,400000.0,418750.0
+New England Revolutio,nGil,Carles,M,2750000.0,3045833.0
+New England Revolutio,nJones,DeJuan,M,95000.0,99938.0
+New England Revolutio,nKaptoum,Wilfrid,M,500000.0,557500.0
+New England Revolutio,nKessler,Henry,D,95000.0,115000.0
+New England Revolutio,nKizza,Edward,F,63547.0,63547.0
+New England Revolutio,nKnighton,Brad,G,140000.0,146750.0
+New England Revolutio,nMaciel Felix,Lucas,M,63547.0,63547.0
+New England Revolutio,nMafla,Christian,M,400000.0,495000.0
+New England Revolutio,nMcNamara,Thomas,M,225000.0,225000.0
+New England Revolutio,nPolster,Matt,M,300000.0,328438.0
+New England Revolutio,nRennicks,Justin,F,100000.0,110000.0
+New England Revolutio,nRivera,Damian,M,63547.0,63547.0
+New England Revolutio,nTraustason,Arnor,M,375000.0,413405.0
+New England Revolutio,nTurner,Matt,G,375000.0,375000.0
+New England Revolutio,nVerfurth,Collin,D,81375.0,81375.0
+New York City FC,Acevedo,Nicolas,M,135000.0,151000.0
+New York City FC,Amundsen,Malte,D,240000.0,278700.0
+New York City FC,Araujo dos Santos,Heber,F,785000.0,788750.0
+New York City FC,Barraza,Luis,G,81375.0,81375.0
+New York City FC,Callens,Alexander,D,700000.0,764000.0
+New York City FC,Castellanos,Valentin,M,600000.0,776000.0
+New York City FC,Chanot,Maxime,D,785000.0,785000.0
+New York City FC,De Andrade,Thiago,F,180000.0,199600.0
+New York City FC,Gloster,Christopher,D,197000.0,207000.0
+New York City FC,Gray,Tayvon,D,95000.0,114788.0
+New York City FC,Haak,Justin,M,81375.0,81375.0
+New York City FC,Jasson,Andres,M,63547.0,80691.0
+New York City FC,Johnson,Sean,G,510000.0,510000.0
+New York City FC,Latinovich,Vukashin,D,63547.0,63547.0
+New York City FC,Magno,Talles,F,950000.0,1198000.0
+New York City FC,McFarlane,Christian,D,63547.0,81803.0
+New York City FC,Medina,Jesus,M,1050000.0,1170833.0
+New York City FC,Mitrita,Alexandru,F,700000.0,700000.0
+New York City FC,Mizell,Cody,G,81375.0,81375.0
+New York City FC,Morales,Alfredo,M,600000.0,662250.0
+New York City FC,Moralez,Maxi,M,2500000.0,3285000.0
+New York City FC,Parks,Keaton,M,350000.0,350000.0
+New York City FC,Rocha,Tony,M,85444.0,85444.0
+New York City FC,Rodriguez,Santiago,M,612500.0,612500.0
+New York City FC,Sands,James,M,150000.0,200000.0
+New York City FC,Tajouri-Shradi,Ismael,F,577500.0,618985.0
+New York City FC,Thorarinson,Gudmundur,M,400000.0,400000.0
+New York City FC,Tinnerholm,Anton,D,600000.0,650000.0
+New York City FC,Torres,Juan Pablo,M,90000.0,104500.0
+New York City FC,Zelalem,Gedion,M,81375.0,81375.0
+New York Red Bulls,Amaya,Frankie,M,150000.0,187000.0
+New York Red Bulls,Barlow,Tom,F,81375.0,94526.0
+New York Red Bulls,Carmona,Wikelman,M,63547.0,66297.0
+New York Red Bulls,Casseres,Cristian,M,205000.0,249000.0
+New York Red Bulls,Clark,Caden,M,106773.0,143973.0
+New York Red Bulls,Coronel,Carlos Miguel,G,462996.0,512656.0
+New York Red Bulls,Davis,Sean,M,375000.0,402500.0
+New York Red Bulls,Diarra,Youba,M,337000.0,398046.0
+New York Red Bulls,Drame,Issiar,D,81375.0,97158.0
+New York Red Bulls,Duncan,Kyle,D,93581.0,93581.0
+New York Red Bulls,Edwards,Tom,M,409911.0,409911.0
+New York Red Bulls,Egbo,Mandela,D,276000.0,310700.0
+New York Red Bulls,Estrela,Bento,M,63547.0,87547.0
+New York Red Bulls,Fernandez,Omir,M,115000.0,130000.0
+New York Red Bulls,Gomes,Fabio,F,380000.0,401400.0
+New York Red Bulls,Gutman,Andrew,D,275000.0,306250.0
+New York Red Bulls,Harper,Cameron,F,200000.0,251250.0
+New York Red Bulls,Jensen,David,G,324996.0,364631.0
+New York Red Bulls,Jorgensen,Mathias,F,325000.0,356250.0
+New York Red Bulls,Klimala,Patryk,F,1000000.0,1135000.0
+New York Red Bulls,Lewis,Luca,G,63547.0,67147.0
+New York Red Bulls,Long,Aaron,D,895000.0,925000.0
+New York Red Bulls,"Marcucci, Jr.",Anthony,G,63547.0,63547.0
+New York Red Bulls,Meara,Ryan,G,270000.0,270000.0
+New York Red Bulls,Monzon,Lucas,D,205000.0,243917.0
+New York Red Bulls,Nealis,Sean,D,81375.0,81375.0
+New York Red Bulls,Pendant,Jason,D,325000.0,385750.0
+New York Red Bulls,Reyes,Andres,D,400000.0,444375.0
+New York Red Bulls,Royer,Daniel,M,750000.0,818750.0
+New York Red Bulls,Sowe,Omar,F,63547.0,72633.0
+New York Red Bulls,Tolkin,John,D,81375.0,86375.0
+New York Red Bulls,Yearwood,Dru,M,475000.0,519750.0
+Orlando City SC,Aguilera,Raul,M,63547.0,63547.0
+Orlando City SC,Aias,Matheus,F,252000.0,267500.0
+Orlando City SC,Akindele,Tesho,F,275000.0,290000.0
+Orlando City SC,Alvarado,Alexander,F,220000.0,238240.0
+Orlando City SC,Bender,Jordan,M,63547.0,63547.0
+Orlando City SC,Cunha,Antonio Carlos,D,840000.0,865000.0
+Orlando City SC,De Almeida,Ocimar,M,700000.0,730000.0
+Orlando City SC,Dezart,Joseph,M,66724.0,66724.0
+Orlando City SC,Dike,Daryl,F,100000.0,128750.0
+Orlando City SC,Dodson,Derek,F,63547.0,63547.0
+Orlando City SC,Gallese,Pedro,G,410000.0,410000.0
+Orlando City SC,Grinwis,Adam,G,81375.0,81375.0
+Orlando City SC,Halliday,Michael,D,85444.0,95089.0
+Orlando City SC,Hope-Gund,Rio,D,63547.0,63547.0
+Orlando City SC,Jansson,Robin,D,500000.0,556250.0
+Orlando City SC,Loera,David,M,100000.0,102500.0
+Orlando City SC,Mas,Emmanuel,D,252000.0,282000.0
+Orlando City SC,Méndez,Jhegson Sebastián,M,550000.0,586750.0
+Orlando City SC,Michel,Benji,F,109250.0,115553.0
+Orlando City SC,Moutinho,Joao,D,180000.0,223000.0
+Orlando City SC,Mueller,Chris,M,123715.0,137465.0
+Orlando City SC,Nani,Luis,F,2333333.0,2486250.0
+Orlando City SC,Pato,Alexandre,F,272727.0,272727.0
+Orlando City SC,Perea,Andres,M,180000.0,188500.0
+Orlando City SC,Pereyra,Mauricio,M,1800000.0,1848000.0
+Orlando City SC,Rivera,Wilfredo,F,63547.0,63547.0
+Orlando City SC,Rosell,Oriol,M,475000.0,475000.0
+Orlando City SC,Schlegel,Rodrigo,D,120000.0,127425.0
+Orlando City SC,Smith,Kyle,D,105996.0,118660.0
+Orlando City SC,Stajduhar,Mason,G,85444.0,85444.0
+Orlando City SC,Teixeira,Ruan,D,190000.0,190000.0
+Orlando City SC,Van der Water,Silvester,F,300000.0,325750.0
+Orlando City SC,Williams,Thomas,F,63547.0,70077.0
+Philadelphia Union,Aaronson,Paxten,M,87500.0,91500.0
+Philadelphia Union,Alvarenga de Oliveira,Matheus,F,240000.0,253000.0
+Philadelphia Union,Bedoya,Alejandro,M,810000.0,1023333.0
+Philadelphia Union,Bendik,Joe,G,200000.0,200000.0
+Philadelphia Union,Blake,Andre,G,600000.0,650000.0
+Philadelphia Union,Bueno,Jesus,M,81375.0,96753.0
+Philadelphia Union,Burke,Cory,F,350000.0,400770.0
+Philadelphia Union,Collin,Aurelien,D,81375.0,81375.0
+Philadelphia Union,Craig,Brandan,M,65000.0,77825.0
+Philadelphia Union,De Vries,Jack,M,120000.0,135556.0
+Philadelphia Union,Elliott,Jack,D,325000.0,340000.0
+Philadelphia Union,Findlay,Stuart,D,425000.0,425000.0
+Philadelphia Union,Flach,Leon,M,210000.0,223750.0
+Philadelphia Union,Fontana,Anthony,M,100008.0,108426.0
+Philadelphia Union,Freese,Matt,G,96750.0,115500.0
+Philadelphia Union,Gazdag,Daniel,F,300000.0,336250.0
+Philadelphia Union,Glesnes,Jakob,D,425000.0,448125.0
+Philadelphia Union,Harriel,Nathan,D,70000.0,87500.0
+Philadelphia Union,Martinez,Jose Andres,M,225000.0,251250.0
+Philadelphia Union,Mbaizo,Olivier,D,89513.0,89513.0
+Philadelphia Union,McGlynn,Jack,M,64992.0,78892.0
+Philadelphia Union,Miscic,Selmir,M,63547.0,70026.0
+Philadelphia Union,Monteiro,Jamiro,M,1300000.0,1476250.0
+Philadelphia Union,Oravec,Matej,M,270000.0,284500.0
+Philadelphia Union,Portella,Gino,F,63547.0,71615.0
+Philadelphia Union,Powell,Alvas,D,81375.0,88875.0
+Philadelphia Union,Przybylko,Kacper,F,825000.0,916250.0
+Philadelphia Union,Ranjitsingh,Gregory,G,81375.0,81375.0
+Philadelphia Union,Real,Matthew,D,90000.0,90000.0
+Philadelphia Union,Santos,Sergio,F,660000.0,728500.0
+Philadelphia Union,Sorenson,Anthony,M,63547.0,66547.0
+Philadelphia Union,Sullivan,Quinn,M,63547.0,67047.0
+Philadelphia Union,Turner,Cole,M,85444.0,88444.0
+Philadelphia Union,Wagner,Kai,D,450000.0,521000.0
+Philadelphia Union,,Ilsinho,M,450000.0,501250.0
+Portland Timbers,Asprilla,Dairon,F,275000.0,277500.0
+Portland Timbers,Attinella,Jeff,G,108000.0,114125.0
+Portland Timbers,Bingham,David,G,81375.0,81375.0
+Portland Timbers,Blanco,Sebastian,F,2200000.0,2313333.0
+Portland Timbers,Bodily,Blake,M,67360.0,67360.0
+Portland Timbers,Bonilla,Pablo,D,85444.0,85444.0
+Portland Timbers,Bravo,Claudio,D,300000.0,323310.0
+Portland Timbers,Chara,Diego,M,650000.0,668750.0
+Portland Timbers,Chara,Yimmi,M,1200000.0,1503000.0
+Portland Timbers,Clark,Steve,G,250000.0,250000.0
+Portland Timbers,Fochive,George,M,240000.0,240000.0
+Portland Timbers,Gonzalez,Jorge,M,63547.0,63547.0
+Portland Timbers,Ivacic,Aljaz,G,225000.0,235000.0
+Portland Timbers,Jome,Ismaila,D,81375.0,81375.0
+Portland Timbers,Loría,Marvin,M,81375.0,81375.0
+Portland Timbers,Mabiala,Larrys,D,450000.0,450000.0
+Portland Timbers,McGraw,Zac,D,66724.0,66724.0
+Portland Timbers,Mora,Felipe,F,825000.0,905000.0
+Portland Timbers,Moreno,Santiago,F,250000.0,294576.0
+Portland Timbers,Niezgoda,Jaroslaw,F,739500.0,908758.0
+Portland Timbers,Paredes,Cristhian,M,252000.0,283500.0
+Portland Timbers,Polo,Andy,M,500000.0,500000.0
+Portland Timbers,Sulte,Hunter,G,63547.0,68143.0
+Portland Timbers,Tuiloma,Bill,M,220000.0,234125.0
+Portland Timbers,Valeri,Diego,M,765000.0,914875.0
+Portland Timbers,Van Rankin,Jose,M,105255.0,105255.0
+Portland Timbers,Williamson,Eryk,M,220000.0,236500.0
+Portland Timbers,Zambrano,Renzo,M,85444.0,85444.0
+Portland Timbers,Zuparic,Dario,D,525000.0,541667.0
+Real Salt Lake,Besler,Nick,M,167500.0,167500.0
+Real Salt Lake,Brody,Andrew,M,81375.0,85208.0
+Real Salt Lake,Chang,Maikel,M,85444.0,85444.0
+Real Salt Lake,Datkovic,Toni,D,420000.0,468175.0
+Real Salt Lake,Davis,Bode,F,63547.0,67841.0
+Real Salt Lake,Dewsnup,Jeffrey,G,63547.0,73372.0
+Real Salt Lake,Farnsworth,Zackery,D,81375.0,96125.0
+Real Salt Lake,Garcia,Chris,F,85444.0,89744.0
+Real Salt Lake,Glad,Justen,D,600000.0,660031.0
+Real Salt Lake,Halsey,Bret,D,81375.0,88875.0
+Real Salt Lake,Herrera,Aaron,D,315000.0,343794.0
+Real Salt Lake,Holt,Erik,D,90000.0,90000.0
+Real Salt Lake,Iloski,Milan,F,120000.0,121500.0
+Real Salt Lake,Julio,Anderson,F,402000.0,485875.0
+Real Salt Lake,Kreilach,Damir,M,1200000.0,1350000.0
+Real Salt Lake,Luiz,Everton,M,1160000.0,1260000.0
+Real Salt Lake,MacMath,Zac,G,200000.0,200000.0
+Real Salt Lake,Martinez,Doug,F,81375.0,81375.0
+Real Salt Lake,Menendez,Jonathan,F,500000.0,602813.0
+Real Salt Lake,Meram,Justin,M,500000.0,500000.0
+Real Salt Lake,Morgan,Ashtone,D,132000.0,132000.0
+Real Salt Lake,Ochoa,David,G,90000.0,90000.0
+Real Salt Lake,Portillo,Justin,M,85444.0,85444.0
+Real Salt Lake,Powder,Noah,D,63547.0,67609.0
+Real Salt Lake,Putna,Andrew,G,140000.0,153458.0
+Real Salt Lake,Ramirez Chacon,Jeizon,M,360000.0,401250.0
+Real Salt Lake,Rubin,Rubio,F,135000.0,152067.0
+Real Salt Lake,Ruiz,Pablo,M,375000.0,448500.0
+Real Salt Lake,Rusnak,Albert,M,2150000.0,2351667.0
+Real Salt Lake,Schmitt,Tate,F,90000.0,90000.0
+Real Salt Lake,Silva,Marcelo,D,550000.0,596667.0
+Real Salt Lake,Toia,Donny,D,200000.0,205000.0
+Real Salt Lake,Wood,Bobby,F,875000.0,968161.0
+San Jose Earthquakes,Abecasis,Luciano,D,380000.0,394000.0
+San Jose Earthquakes,Akanyirige,Jacob,D,105000.0,107000.0
+San Jose Earthquakes,Alanis,Oswaldo,D,630000.0,730000.0
+San Jose Earthquakes,Asomani,George,M,63547.0,63547.0
+San Jose Earthquakes,Beason,Tanner,D,90000.0,110000.0
+San Jose Earthquakes,Bersano,Matt,G,106375.0,106375.0
+San Jose Earthquakes,Calvillo,Eric,M,170000.0,188000.0
+San Jose Earthquakes,Cardoso,Nathan,D,600000.0,641250.0
+San Jose Earthquakes,Cowell,Cade,F,120000.0,130000.0
+San Jose Earthquakes,Ebobisse,Jeremy,F,600000.0,691250.0
+San Jose Earthquakes,Espinoza,Cristian,F,1150000.0,1265000.0
+San Jose Earthquakes,Fierro,Carlos,F,850000.0,908800.0
+San Jose Earthquakes,Fuentes,Gilbert,M,160000.0,178750.0
+San Jose Earthquakes,Haji,Siad,F,95000.0,104000.0
+San Jose Earthquakes,Kikanovic,Benjamin,F,63547.0,69322.0
+San Jose Earthquakes,Lopez,Marcos,D,330000.0,370250.0
+San Jose Earthquakes,Lopez Ramirez,Javier,F,860000.0,860000.0
+San Jose Earthquakes,Marcinkowski,JT,G,165000.0,177000.0
+San Jose Earthquakes,Marie,Paul,D,81375.0,87908.0
+San Jose Earthquakes,Ochoa,Emmanuel,G,65000.0,75080.0
+San Jose Earthquakes,Remedi,Eric,M,450000.0,450000.0
+San Jose Earthquakes,Rios,Andres,F,870000.0,939250.0
+San Jose Earthquakes,Salinas,Shea,F,280000.0,280000.0
+San Jose Earthquakes,Skahan,Jack,M,66724.0,66724.0
+San Jose Earthquakes,Thompson,Tommy,D,265000.0,265000.0
+San Jose Earthquakes,Vega,Daniel,G,220000.0,225000.0
+San Jose Earthquakes,Walls,Casey,D,85000.0,88000.0
+San Jose Earthquakes,Williamson,Tommy,F,63547.0,63547.0
+San Jose Earthquakes,Wondolowski,Chris,F,390000.0,400000.0
+San Jose Earthquakes,Yueill,Jackson,M,600000.0,636875.0
+San Jose Earthquakes,,Judson,M,360000.0,365000.0
+Seattle Sounders FC,Arreaga,Xavier,D,393600.0,500850.0
+Seattle Sounders FC,Atencio,Joshua,M,63547.0,68161.0
+Seattle Sounders FC,Baker-Whiting,Reed,M,63547.0,83547.0
+Seattle Sounders FC,Benezet,Nicolas,M,650000.0,650000.0
+Seattle Sounders FC,Bruin,Will,F,450000.0,458333.0
+Seattle Sounders FC,Chu,Leonardo,F,540000.0,540000.0
+Seattle Sounders FC,Cissoko,Abdoulaye,D,63547.0,63547.0
+Seattle Sounders FC,Cleveland,Stefan,G,96375.0,96375.0
+Seattle Sounders FC,Delem,Jordy,M,175000.0,194000.0
+Seattle Sounders FC,Dobbelaere,Ethan,M,67360.0,81360.0
+Seattle Sounders FC,Frei,Stefan,G,500000.0,500000.0
+Seattle Sounders FC,Gomez Andrade,Yeimar,D,300000.0,387000.0
+Seattle Sounders FC,Hopeau,Shandon,M,66724.0,74360.0
+Seattle Sounders FC,Leyva,Danny,M,81375.0,100798.0
+Seattle Sounders FC,Lodeiro,Nicolas,M,2120000.0,2736667.0
+Seattle Sounders FC,Medranda,Jimmy,M,180000.0,190000.0
+Seattle Sounders FC,Mior,Joao Paulo,M,1000000.0,1050000.0
+Seattle Sounders FC,Montero,Fredy,F,81375.0,81375.0
+Seattle Sounders FC,Morris,Jordan,F,1150000.0,1270100.0
+Seattle Sounders FC,Muse,Trey,G,81375.0,90125.0
+Seattle Sounders FC,O'Neill,Shane,D,115000.0,115000.0
+Seattle Sounders FC,Ocampo-Chavez,Alfonso,F,81375.0,95875.0
+Seattle Sounders FC,Richey,Spencer,G,81375.0,81375.0
+Seattle Sounders FC,Roldan,Cristian,M,760000.0,881542.0
+Seattle Sounders FC,Roldan,Alex,M,93581.0,93581.0
+Seattle Sounders FC,Rowe,Kelyn,M,180000.0,180000.0
+Seattle Sounders FC,Ruidiaz,Raul,F,2100000.0,2100000.0
+Seattle Sounders FC,Smith,Brad,D,525000.0,566250.0
+Seattle Sounders FC,Thomas,Andrew,G,81375.0,88875.0
+Seattle Sounders FC,Tolo,Nouhou,D,125000.0,169274.0
+Sporting Kansas City,Banks Barber,Grayson,F,63547.0,67297.0
+Sporting Kansas City,Cisneros,Osvaldo,F,63547.0,66547.0
+Sporting Kansas City,Davis,Jacob,M,63547.0,63547.0
+Sporting Kansas City,Dia,Amadou,D,135000.0,135000.0
+Sporting Kansas City,Duke,Cameron,M,81375.0,84375.0
+Sporting Kansas City,Espinoza,Roger,M,500000.0,500000.0
+Sporting Kansas City,Fontas,Andreu,D,1125000.0,1125000.0
+Sporting Kansas City,Freeman,Tyler,F,95000.0,97500.0
+Sporting Kansas City,Harris,Wilson,F,67360.0,71212.0
+Sporting Kansas City,Hernandez,Felipe,M,81375.0,81375.0
+Sporting Kansas City,Isimat-Mirin,Nicolas,D,950000.0,1028124.0
+Sporting Kansas City,Kinda,Gadi,M,850000.0,918000.0
+Sporting Kansas City,Lindsey,Jaylin,D,91547.0,94547.0
+Sporting Kansas City,Martins,Luis,D,340000.0,340000.0
+Sporting Kansas City,Mauri,Jose,M,660000.0,660000.0
+Sporting Kansas City,McIntosh,Kendall,G,96375.0,96375.0
+Sporting Kansas City,Melia,Tim,G,500000.0,504167.0
+Sporting Kansas City,Pierre,Kayden,D,63547.0,68647.0
+Sporting Kansas City,Pulido Izaguirre,Alan,F,2200000.0,2200000.0
+Sporting Kansas City,Pulskamp,John,G,67360.0,69860.0
+Sporting Kansas City,Puncec,Roberto,D,575000.0,575000.0
+Sporting Kansas City,Rad,Kaveh,D,63547.0,63547.0
+Sporting Kansas City,Russell,Johnny,F,1600000.0,1600000.0
+Sporting Kansas City,Salloi,Daniel,F,400000.0,456667.0
+Sporting Kansas City,Sanchez,Ilie,M,1000000.0,1000000.0
+Sporting Kansas City,Shelton,Khiry,F,650000.0,650000.0
+Sporting Kansas City,Smith,Graham,D,85444.0,85444.0
+Sporting Kansas City,Thompson,Brooks,G,63547.0,63547.0
+Sporting Kansas City,Walter,Remi,M,650000.0,650000.0
+Sporting Kansas City,Zusi,Graham,D,650000.0,713333.0
+Toronto FC,Achara,Ifunanyachi,M,66724.0,66724.0
+Toronto FC,Akinola,Ayo,F,89513.0,157513.0
+Toronto FC,Altidore,Jozy,F,2161250.0,3602250.0
+Toronto FC,Bono,Alex,G,450000.0,482000.0
+Toronto FC,Bradley,Michael,M,1500000.0,1500000.0
+Toronto FC,DeLeon,Nick,M,247500.0,263242.0
+Toronto FC,Delgado,"Marco ""Marky""",M,500000.0,581250.0
+Toronto FC,Dunn,Julian,D,85444.0,85444.0
+Toronto FC,Dwyer,Dom,F,81375.0,81375.0
+Toronto FC,Endoh,Tsubasa,M,100000.0,105333.0
+Toronto FC,Gallardo,Erickson,M,300000.0,331913.0
+Toronto FC,Gonzalez,Omar,D,780000.0,1055936.0
+Toronto FC,Laryea,Richie,M,200000.0,226953.0
+Toronto FC,Lawrence,Kemar,D,258000.0,340500.0
+Toronto FC,Marshall-Rutty,Jahkeele,F,100000.0,106842.0
+Toronto FC,Mavinga,Chris,D,850000.0,887500.0
+Toronto FC,Morrow,Justin,D,125000.0,125000.0
+Toronto FC,Mullins,Patrick,F,234996.0,248329.0
+Toronto FC,Nelson,Jayden,F,100000.0,106586.0
+Toronto FC,Okello,Noble,M,100000.0,111815.0
+Toronto FC,Osorio,Jonathan,M,850000.0,876250.0
+Toronto FC,Perruzza,Jordan,F,63547.0,67847.0
+Toronto FC,Pozuelo,Alejandro,M,3800000.0,4693000.0
+Toronto FC,Priso,Ralph,M,66724.0,70476.0
+Toronto FC,Romeo,"Antonio ""Rocco""",D,81250.0,84641.0
+Toronto FC,Shaffelburg,Jacob,F,110000.0,116500.0
+Toronto FC,Silva,Kevin,G,66724.0,66724.0
+Toronto FC,Singh,Luke,D,63547.0,71513.0
+Toronto FC,Soteldo,Yeferson,F,1500000.0,1965000.0
+Toronto FC,Westberg,Quentin,G,275000.0,288583.0
+Toronto FC,Zavaleta,Eriq,D,81375.0,115503.0
+Toronto FC,,Auro,D,360000.0,388750.0
+Vancouver Whitecaps,Bair,Thelonius,F,81375.0,81375.0
+Vancouver Whitecaps,Baldisimo,Michael,M,89513.0,91275.0
+Vancouver Whitecaps,Bikel,Janio,M,350000.0,388750.0
+Vancouver Whitecaps,Boehmer,Isaac,G,66724.0,66724.0
+Vancouver Whitecaps,Brown,Javain,D,63547.0,63547.0
+Vancouver Whitecaps,Caicedo,Deiber,F,300000.0,331125.0
+Vancouver Whitecaps,Campagna,Matteo,M,63547.0,72559.0
+Vancouver Whitecaps,Cavallini,Lucas,F,1100000.0,1362500.0
+Vancouver Whitecaps,Colyn,Simon,M,81375.0,81375.0
+Vancouver Whitecaps,Cornelius,Derek,D,127050.0,127050.0
+Vancouver Whitecaps,Crepeau,Maxime,G,250000.0,277500.0
+Vancouver Whitecaps,Dajome,Cristian,F,400000.0,447917.0
+Vancouver Whitecaps,Egbo,David,F,63547.0,63547.0
+Vancouver Whitecaps,Facchineri,Gianfranco,D,66724.0,68724.0
+Vancouver Whitecaps,Gaspar,Bruno,D,200000.0,233333.0
+Vancouver Whitecaps,Gauld,Ryan,M,1920000.0,2025000.0
+Vancouver Whitecaps,Godinho,Marcus,D,81375.0,84375.0
+Vancouver Whitecaps,Godoy,Erik,D,450000.0,450000.0
+Vancouver Whitecaps,Gutierrez,Cristian,D,150000.0,167500.0
+Vancouver Whitecaps,Habibullah,Kamron,F,63547.0,74429.0
+Vancouver Whitecaps,Hasal,Thomas,G,81375.0,81375.0
+Vancouver Whitecaps,Jungwirth,Florian,M,525000.0,567667.0
+Vancouver Whitecaps,Khmiri,Jasser,D,240000.0,240000.0
+Vancouver Whitecaps,Metcalfe,Patrick,M,66724.0,66724.0
+Vancouver Whitecaps,Nerwinski,Jake,D,255000.0,270000.0
+Vancouver Whitecaps,Newton,Evan,G,95000.0,104802.0
+Vancouver Whitecaps,Owusu,Leonard,M,350000.0,401250.0
+Vancouver Whitecaps,Pecile,Damiano,M,66724.0,72818.0
+Vancouver Whitecaps,Raposo,Ryan,M,90000.0,104000.0
+Vancouver Whitecaps,Ricketts,Tosaint,F,160000.0,165000.0
+Vancouver Whitecaps,Rose,Andy,M,132000.0,132000.0
+Vancouver Whitecaps,Sousa e Silva,Caio Alexandre,M,500000.0,539583.0
+Vancouver Whitecaps,Teibert,Russell,M,350000.0,387500.0
+Vancouver Whitecaps,Veselinovic,Ranko,D,360000.0,445500.0
+Vancouver Whitecaps,Vite,Pedro,M,556000.0,609997.0
+Vancouver Whitecaps,White,Brian,F,216000.0,216000.0
